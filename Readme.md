@@ -26,29 +26,28 @@ This project incorporates several key concepts of C++:
 - **File Handling:** Implemented functions such as `seekp()`, `seekg()`, `write()`, `read()`, `open()`, and `close()` for saving and retrieving user, product, and order data.
 - **Formatting:** The `<iomanip>` library is used to format input/output for a polished and professional user interface.
 
-## Installation & Setup
+## Screenshots
+### System Flowchart
+![Flowchart](path/to/flowchat.png)
 
-1. Clone this repository:
-    ```bash
-    git clone https://github.com/your-username/E-Shopping-System.git
-    ```
-2. Compile the code using a C++ compiler:
-    ```bash
-    g++ main.cpp -o EShoppingSystem
-    ```
-3. Run the executable:
-    ```bash
-    ./EShoppingSystem
-    ```
+### User Interface
+![User Interface](path/to/Screenshot%202024-09-22%20234436.png)
 
-## File Structure
+### Product Catalog
+![Product Catalog](path/to/Screenshot%202024-09-22%20234455.png)
 
-- `main.cpp`: The main driver file of the project.
-- `user.cpp`: Handles user-related functionalities (registration, login, etc.).
-- `product.cpp`: Contains the logic for managing product data.
-- `order.cpp`: Deals with order placement and payment processing.
-- `admin.cpp`: Administrator functionalities for managing users, products, and orders.
-- `data/`: Directory containing data files for users, products, and orders (managed through file handling).
+### Shopping Cart
+![Shopping Cart](path/to/Screenshot%202024-09-22%20234511.png)
+
+### Checkout Process
+![Checkout Process](path/to/Screenshot%202024-09-22%20234525.png)
+
+### Payment Gateway
+![Payment Gateway](path/to/Screenshot%202024-09-22%20234606.png)
+
+### Admin Interface
+![Admin Interface](path/to/Screenshot%202024-09-22%20234726.png)
+
 
 ## Motivation
 
@@ -61,6 +60,3 @@ The motivation behind this project was to enhance our understanding of C++ progr
 - **Tamanud Ghule**: Code and report
 - **Aditya Bhale**: Code and report
 
-## License
-
-This project is open-source and available under the [MIT License](LICENSE).
