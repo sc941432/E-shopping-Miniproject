@@ -33,19 +33,15 @@ This project incorporates several key concepts of C++:
 ### User Interface
 ![User Interface](Screenshot%202024-09-22%20234436.png)
 
-### Product Catalog
 ![Product Catalog](Screenshot%202024-09-22%20234455.png)
 
-### Shopping Cart
 ![Shopping Cart](Screenshot%202024-09-22%20234511.png)
 
-### Checkout Process
 ![Checkout Process](Screenshot%202024-09-22%20234525.png)
 
-### Payment Gateway
+
 ![Payment Gateway](Screenshot%202024-09-22%20234606.png)
 
-### Admin Interface
 ![Admin Interface](Screenshot%202024-09-22%20234726.png)
 
 
