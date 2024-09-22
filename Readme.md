@@ -28,25 +28,25 @@ This project incorporates several key concepts of C++:
 
 ## Screenshots
 ### System Flowchart
-![Flowchart](path/to/flowchat.png)
+![Flowchart](flowchat.png)
 
 ### User Interface
-![User Interface](path/to/Screenshot%202024-09-22%20234436.png)
+![User Interface](Screenshot%202024-09-22%20234436.png)
 
 ### Product Catalog
-![Product Catalog](path/to/Screenshot%202024-09-22%20234455.png)
+![Product Catalog](Screenshot%202024-09-22%20234455.png)
 
 ### Shopping Cart
-![Shopping Cart](path/to/Screenshot%202024-09-22%20234511.png)
+![Shopping Cart](Screenshot%202024-09-22%20234511.png)
 
 ### Checkout Process
-![Checkout Process](path/to/Screenshot%202024-09-22%20234525.png)
+![Checkout Process](Screenshot%202024-09-22%20234525.png)
 
 ### Payment Gateway
-![Payment Gateway](path/to/Screenshot%202024-09-22%20234606.png)
+![Payment Gateway](Screenshot%202024-09-22%20234606.png)
 
 ### Admin Interface
-![Admin Interface](path/to/Screenshot%202024-09-22%20234726.png)
+![Admin Interface](Screenshot%202024-09-22%20234726.png)
 
 
 ## Motivation
